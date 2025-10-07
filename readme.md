@@ -18,7 +18,6 @@ A Node.js script to read emails from an Excel file and send a **custom HTML emai
 
 ## **Project Structure**
 
-```
 
 email-bulk-sender/
 │
